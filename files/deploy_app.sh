@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Welcome to "Peter is AWESOME" World!!!</h2></center>
-  This is ${PREFIX}'s app 2.
+  This is ${PREFIX}'s app git.
   <!-- END -->
 
   </div>
